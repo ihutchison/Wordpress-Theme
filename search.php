@@ -9,7 +9,7 @@
 
 get_header();
 ?>
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="style.css">
 <div class = "align-right">
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main">
