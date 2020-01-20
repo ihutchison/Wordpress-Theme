@@ -985,3 +985,7 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+.align-right{
+	align-content: right;
+}
