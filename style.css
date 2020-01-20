@@ -986,7 +986,7 @@ object {
 	display: block;
 }
 
-.align-right{
+#align-right{
 	align-content: right;
 	text-align: right;
 }
