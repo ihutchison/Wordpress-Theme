@@ -988,4 +988,5 @@ object {
 
 .align-right{
 	align-content: right;
+	text-align: right;
 }
