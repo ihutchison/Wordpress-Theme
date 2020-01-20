@@ -784,6 +784,7 @@ a:hover, a:active {
 	display: inline;
 	float: right;
 	margin-left: 1.5em;
+	text-align: right;
 }
 
 .aligncenter {
