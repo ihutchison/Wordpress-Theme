@@ -994,5 +994,5 @@ object {
 
 .footer_align{
 	align-self: baseline;
-	padding: 70px 0;
+	align-items: baseline;
 }
