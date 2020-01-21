@@ -992,7 +992,6 @@ object {
 	padding: 0px 10px;
 }
 
-.align-center{
-	align-content: center;
-	text-align: center;
+.footer_align{
+	align-self: baseline;
 }
