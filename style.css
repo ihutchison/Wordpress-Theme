@@ -991,3 +991,8 @@ object {
 	text-align: right;
 	padding: 0px 10px;
 }
+
+.align-center{
+	align-content: center;
+	text-align: center;
+}
