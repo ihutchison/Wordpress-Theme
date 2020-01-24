@@ -15,11 +15,12 @@ get_header();
 
 			<section class="error-404 not-found">
 				<header class="page-header">
-					<h1 class="page-title"><?php esc_html_e( 'Woah, how you doing? I dont think you should be here', 'underscores' ); ?></h1>
+					<h1 class="page-title"><?php esc_html_e( 'Woah, how you doing? I dont think you should be here.', 'underscores' ); ?></h1>
 				</header><!-- .page-header -->
 
 				<div class="page-content">
-					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try a search?', 'underscores' ); ?></p>
+					<p><?php esc_html_e( 'Doesnt Seem like anything is here, hmmm maybe you should make like hockey and get the puck out of here by searching what you need.', 'underscores' ); ?></p>
+					
 
 					<?php
 					get_search_form();
