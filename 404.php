@@ -26,7 +26,7 @@ get_header();
 
 					the_widget( 'WP_Widget_Recent_Posts' );
 					?>
-					<img class= "img" src="<?php bloginfo ('Wordpress-Theme'); ?>/assets/images/HTML-Yeti-404-Page.png">
+					<img class= "img" src="<?php bloginfo ('Wordpress-Theme'); ?> /images/HTML-Yeti-404-Page.png">
 					<?php
 					/* translators: %1$s: smiley */
 					$underscores_archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'underscores' ), convert_smilies( ':)' ) ) . '</p>';
