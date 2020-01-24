@@ -996,3 +996,8 @@ object {
 	text-align: center;
 	align-content: center;
 }
+
+.img{
+	align-content: center;
+	text-align: center;
+}
