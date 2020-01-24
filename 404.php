@@ -25,7 +25,7 @@ get_header();
 					<?php
 					get_search_form();
 					?>
-					<img src="wp-content\themes\Wordpress-Theme\images\HTML-Yeti-404-Page.png" alt="A Yeti 404 Comic" height="300" width="300" align="center">
+					<img src="wp-content\themes\Wordpress-Theme\images\HTML-Yeti-404-Page.png" alt="A Yeti 404 Comic" height="500" width="500" align="center">
 					<?php
 					/* translators: %1$s: smiley */
 					$underscores_archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'underscores' ), convert_smilies( ':)' ) ) . '</p>';
