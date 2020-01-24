@@ -684,6 +684,7 @@ a:hover, a:active {
 	float: left;
 	position: relative;
 	padding: 0px 25px;
+	text-align: center;
 }
 
 .main-navigation a {
