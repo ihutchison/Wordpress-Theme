@@ -640,7 +640,7 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .main-navigation {
 	clear: both;
-	display: block;
+	display: flex;
 	float: left;
 	width: 100%;
 	justify-content: center;
