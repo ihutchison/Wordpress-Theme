@@ -643,6 +643,7 @@ a:hover, a:active {
 	display: block;
 	float: left;
 	width: 100%;
+	text-align: center;
 }
 
 .main-navigation ul {
