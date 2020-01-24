@@ -865,6 +865,8 @@ a:hover, a:active {
 .entry-content,
 .entry-summary {
 	margin: 1.5em 0 0;
+	align-content: center;
+	text-align: center;
 }
 
 .page-links {
@@ -1003,6 +1005,9 @@ object {
 .site{
 	text-align: center;
 	align-content: center;
+	font-family: impact;
+	background-color: cyan;
+	margin: auto auto;
 }
 
 .img{
