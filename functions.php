@@ -79,6 +79,16 @@ if ( ! function_exists( 'underscores_setup' ) ) :
 			'flex-width'  => true,
 			'flex-height' => true,
 		) );
+		
+		add_theme_support('custom-header', apply_filters('underscores_custom_header_args', array(
+			'default-image'  => '',
+			'default-text-color'   => '000000',
+			'width'    => 1000,
+			'height'   => 250,
+			'flex-height'   => true,
+			'wp-head-callback'   => 'underscores_header_style'
+		)));
+
 	}
 endif;
 add_action( 'after_setup_theme', 'underscores_setup' );
