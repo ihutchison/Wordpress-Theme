@@ -86,7 +86,7 @@ if ( ! function_exists( 'issac_theme_setup' ) ) :
 			'width'    => 1333,
 			'height'   => 250,
 			'flex-height'   => true,
-			'wp-head-callback'   => 'issac_theme_header_style'
+			#'wp-head-callback'   => 'issac_theme_header_style'
 		)));
 
 	}
